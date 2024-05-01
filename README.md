@@ -1,1 +1,1 @@
-# .github
+# Orca: Oregon Regional Computing Accelerator
